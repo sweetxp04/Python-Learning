@@ -1,0 +1,21 @@
+grocery = ["Har-pic", "vim bar", "Suger", "Soap", 56]
+# print(grocery)
+# print(grocery[2])
+
+numbers = [2, 5, 76, 3, 2, 4]
+# print(numbers)
+# print(numbers[2])
+# numbers.sort()
+# print(numbers)
+# numbers.reverse()
+# print(numbers)
+# print(numbers[:])
+# print(numbers[::2])
+# numbers.append(8)
+# print(numbers)
+# numbers.insert(2, 8)
+# print(numbers)
+# numbers.pop(2)
+# print(numbers)
+# numbers.remove(76)
+# print(numbers)
